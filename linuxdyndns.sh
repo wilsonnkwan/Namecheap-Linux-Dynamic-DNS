@@ -1,7 +1,7 @@
 #!/bin/bash
 #You can start this script at startup by adding to crontab
 #@reboot sh /path/to/linuxdyndns.sh
-#e.g. host in.ter.com
+#Example Case - host in.ter.com
 HOST=<INSERT HOST>
 #e.g. HOST=in
 DOMAIN=<INSERT DOMAIN>
