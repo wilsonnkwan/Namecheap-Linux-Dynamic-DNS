@@ -1,6 +1,6 @@
-#e.g. host in.ter.com
 #You can make this script run as a service at the background when computer restart as a service by following using NSSM
 #This is a good guide https://xkln.net/blog/running-a-powershell-script-as-a-service/
+#Example Case - host in.ter.com
 $SUBDOMAIN="<INSERT HOST>"
 #e.g. $SUBDOMAIN="in"
 $DOMAIN="<INSERT DOMAIN>"
